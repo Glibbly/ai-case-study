@@ -10,7 +10,9 @@ Palo Alto Networks, founded in 2005, is a leading cybersecurity company headquar
 
 ### Company History
 
-Palo Alto Networks was established by Nir Zuk, a former engineer at Check Point Software Technologies. The company's initial offering, a next-generation firewall, was introduced in 2007. Since then, it has expanded its product portfolio through strategic acquisitions, including Cyvera (2014) and Demisto (2018).
+Palo Alto Networks was established by Nir Zuk, a former engineer at Check Point Software Technologies. The company's initial offering, a next-generation firewall, was introduced in 2007, which fundamentally changed the way organizations approached network security. By combining traditional firewall features with advanced capabilities like application awareness and user identity integration, Palo Alto Networks quickly gained traction in the market.
+
+In 2012, the company went public, raising over $200 million in its initial public offering (IPO). Since then, it has expanded its product portfolio through strategic acquisitions, including the purchase of several security companies such as Cyvera (2014), which enhanced its endpoint protection capabilities, and Demisto (2018), which integrated security orchestration and automation features into its offerings.
 
 ### Business Metrics
 
