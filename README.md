@@ -59,7 +59,7 @@ Palo Alto Networks faces competition from:
 
 ## Sources
 
-1. Gartner. (2023). "Forecast: Information Security, Worldwide, 2022-2028."
-2. McKinsey & Company. (2023). "The Role of AI in Cybersecurity."
-3. Palo Alto Networks. (2023). "Annual Report." 
+1. [Gartner. (2023). "Forecast: Information Security, Worldwide, 2022-2028."](https://www.gartner.com/en/documents/3979292/forecast-information-security-worldwide-2022-2028)
+2. [McKinsey & Company. (2023). "The Role of AI in Cybersecurity."](https://www.mckinsey.com/industries/cybersecurity/our-insights/the-role-of-ai-in-cybersecurity)
+3. [Palo Alto Networks. (2023). "Annual Report."](https://www.paloaltonetworks.com/annual-reports)
 
