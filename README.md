@@ -8,6 +8,10 @@
 
 Palo Alto Networks, founded in 2005, is a leading cybersecurity company headquartered in Santa Clara, California. The company focuses on providing advanced security solutions through its innovative technology, including firewalls, cloud security, and threat intelligence.
 
+### Company History
+
+Palo Alto Networks was established by Nir Zuk, a former engineer at Check Point Software Technologies. The company's initial offering, a next-generation firewall, was introduced in 2007. Since then, it has expanded its product portfolio through strategic acquisitions, including Cyvera (2014) and Demisto (2018).
+
 ### Business Metrics
 
 Palo Alto Networks has demonstrated impressive growth, reporting revenues exceeding $5 billion in the last fiscal year.
